@@ -1,4 +1,5 @@
 # Web Scraping
+
 Web Scraping das últimas notícias do site spacemoney.com usando Python, usandos as seguintes biliotecas:
   * Selenium.
   * OS e time.
